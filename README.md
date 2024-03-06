@@ -17,4 +17,3 @@ The output of the build process will be `Program.exe`.
 ## Origin
 
 This project is inspired by the content and teachings of the Offensive Development course offered by White Knight Labs. For more information on the course and to enhance your skills in offensive development, visit [White Knight Labs Offensive Development Training](https://training.whiteknightlabs.com/offensive-development-training/).
-```
